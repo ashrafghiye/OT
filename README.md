@@ -16,8 +16,7 @@ The goal is to implement recent GANs with enhanced loss function that builds on 
 
 - The resulted plots are saved in `images`.
 
-- The datasets are stored in `data`.
-
+- The final report with detailed analysis is not included yet.
 
 ## References
 
