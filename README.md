@@ -14,7 +14,7 @@ Despite their success in the previous years, Generative Adversarial Network suff
 
 In short, Optimal Transport can be characterized as the natural geometry to compare probability distributions. Thus using ideas from OT, we can define new loss functions that induce better geometric properties for our learning process. 
 
-We will discover two flavours of OT in Generative Models and Statistical Learning in general: Using a regularized version of the original OT problem [Cuturi' 13] we can define new divergence (Sinkhorn divergence) between two measures, and using the dual formation of optimal transport we can use neural network to approximate 1-Wasserstein distance between two densities.
+We will discover two flavours of OT in Generative Models and Statistical Learning in general: Using a regularized version of the original OT problem [Cuturi' 13] we can define the Sinkhorn divergence between two measures, and using the dual formation of optimal transport we can use neural network to approximate 1-Wasserstein distance between two densities.
 
 ![push_forw](https://user-images.githubusercontent.com/24767888/116453334-0ab62200-a85f-11eb-8fca-1a040d366664.png)
 
