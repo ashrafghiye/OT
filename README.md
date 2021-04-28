@@ -6,7 +6,7 @@ The goal is to implement recent GANs with enhanced loss function that builds on 
 
 ## Context
 
-[Optimal Transport](https://marcocuturi.net/ot.html) course taught at ENSAE with [prof. Marco CUTURI.](https://marcocuturi.net/)
+[Optimal Transport](https://marcocuturi.net/ot.html) course taught at ENSAE with prof. [Marco CUTURI](https://marcocuturi.net/).
 
 ## Content
 
