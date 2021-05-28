@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24767888/116453334-0ab62200-a85f-11eb-8fca-1a040d366664.png" />
 </p>
-
+Image credits: Prof Gabriel Peyré
 
 This project explores Optimal Transport variants in Generative Adversarial Network.
 The goal is to implement recent GANs with enhanced loss function that builds on Optimal Transport Theory.
